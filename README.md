@@ -8,9 +8,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&size=22&duration=2500&pause=1250&color=D90DF7&center=true&vCenter=true&width=635&lines=I+am+a+Junior+Full-Stack+Web+%26+App+Developper;I+have+a+PhD+in+Innovation+%26+Project+Management;7%2B+years+in+Higher+Education+and+Research;3%2B+years+of+consulting+experience" alt="Typing SVG" /></a>
 <p align="center">
-  <a href="https://www.linkedin.com/in/charl%C3%A8ne-hoareau-0ab5b55b/"><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/ByronMike/ByronMike/blob/main/Resources/social_logo/linkedin_purple.png"/></a>
+  <a href="https://www.linkedin.com/in/charl%C3%A8ne-hoareau-0ab5b55b/"><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/charlella/charlella/blob/main/Resources/social_logo/linkedin_purple.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:charlene.hoareau@outlook.com"><img width="32px" alt="Email" title="Email" src="https://github.com/ByronMike/ByronMike/blob/main/Resources/social_logo/email_purple.png"></a>
+  <a href="mailto:charlene.hoareau@outlook.com"><img width="32px" alt="Email" title="Email" src="https://github.com/charlella/charlella/blob/main/Resources/social_logo/email_purple.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
@@ -24,26 +24,27 @@ I am enrolled in an intensive Web Development Program at La Capsule.
 I am excited about learning more and developing new skills using 🚀 HTML / CSS / JavaScript / React / Redux 🚀.
 
 
-- 👋 Hi, I’m @charlella
-- 🔭   I am looking for an internship opportunity as a Junior Full Stack Node/React.js Developer 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning JS / React / Redux.
-- 💞️ I’m looking to collaborate on fancy projects helping people to live healthier and happier.
+- 👋  Hi, I’m @charlella
+- 🔭  I am looking for an internship opportunity as a Junior Full Stack Node/React.js Developer 
+- 👀  I’m interested in traveling in time (regency romance novels and museums) and around the world (nature, cultures and languages).
+- 🌎  I currently live in France. In the past few years, I lived in French Polynesia (Tahiti) and Hong-Kong for a few months.
+- 🌱  I’m currently learning JS / React / Redux.
+- 💞️  I’m looking to collaborate on fancy projects helping people to live healthier and happier.
 <br>
 
 ## 🚧 Languages & Tools
 
 <p align="center">
   <!-- Tools icons by @mikecodesdotnet :  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/bash_logo.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/docker_logo.svg" alt="docker" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/html_logo.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/css3_logo.svg" alt="css3" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/js_logo.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/react_logo.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/codewars_logo.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/bash_logo.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/docker_logo.svg" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/html_logo.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/css3_logo.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/js_logo.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/react_logo.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/codewars_logo.svg" alt="codewars" style="vertical-align:top; margin:4px">
   
 
   
