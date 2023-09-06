@@ -19,16 +19,17 @@
 
 ## About me
 
-Currently in career transition, I am retraining to learn more and develop new skills in Web Development. 
-I am enrolled in an intensive Web Development Program at La Capsule. 
-I am excited about learning more and developing new skills using 🚀 HTML / CSS / JavaScript / React / Redux 🚀.
+I am happy as a Web & Mobile Developer (former Research Officer in Management)
+I am working on social media as thecodinglife.fr and we talk about :
+- Retraining as a Developper : learning (no CS degree, bootcamp ?)
+- Programming : 🚀 HTML / CSS / JavaScript / React / React Native / Redux 🚀.
 
 
 - 👋  Hi, I’m @charlella
-- 🔭  I am looking for an internship opportunity as a Junior Full Stack Node/React.js Developer 
+- 🔭  I am looking for a job opportunities as a Junior Full Stack Node/React.js Developer 
 - 👀  I’m interested in traveling in time (regency romance novels and museums) and around the world (nature, cultures and languages).
 - 🌎  I currently live in France. In the past few years, I lived in French Polynesia (Tahiti) and Hong-Kong for a few months.
-- 🌱  I’m currently learning JS / React / Redux.
+- 🌱  I am excited about learning more and developing new skills.
 - 💞️  I’m looking to collaborate on fancy projects helping people to live healthier and happier.
 <br>
 
