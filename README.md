@@ -20,8 +20,8 @@
 ## About me
 
 I am happy as a Web & Mobile Developer (former Research Officer in Management)
-I am working on social media as thecodinglife.fr and we talk about :
-- Retraining as a Developper : learning (no CS degree, bootcamp ?)
+I am working on social media and we talk about :
+- Retraining as a Developper : learning (no CS degree, bootcamp opportunities, learning by doing)
 - Programming : 🚀 HTML / CSS / JavaScript / React / React Native / Redux 🚀.
 
 
