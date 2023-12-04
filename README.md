@@ -22,7 +22,7 @@
 I am happy as a Web & Mobile Developer (former Research Officer in Management)
 I am working on social media and we talk about :
 - Retraining as a Developper : learning (no CS degree, bootcamp opportunities, learning by doing)
-- Programming : 🚀 HTML / CSS / JavaScript / React / React Native / Redux 🚀.
+- Programming : 🚀 HTML / CSS / JavaScript / React / React Native / Swift / Redux 🚀.
 
 
 - 👋  Hi, I’m @charlella
