@@ -37,7 +37,6 @@ I am working on social media and we talk about :
 
 <p align="center">
   <!-- Tools icons by @mikecodesdotnet :  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <!--    <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/bash_logo.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/docker_logo.svg" alt="docker" style="vertical-align:top; margin:4px">  -->
   <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/swift_logo.svg" alt="swift" style="vertical-align:top; margin:4px">
@@ -46,7 +45,13 @@ I am working on social media and we talk about :
   <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/html_logo.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/css3_logo.svg" alt="css3" style="vertical-align:top; margin:4px">
   <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+<p align="center">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/xcode_logo.svg" alt="xcode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<p align="center">
   <img src="https://github.com/charlella/charlella/blob/main/Resources/languages_logo/codewars_logo.svg" alt="codewars" style="vertical-align:top; margin:4px">
+
+
   
   
 
