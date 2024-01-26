@@ -6,7 +6,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&size=22&duration=2500&pause=1250&color=D90DF7&center=true&vCenter=true&width=635&lines=I+am+a+Junior+Full-Stack+Web+%26+App+Developper;I+have+a+PhD+in+Innovation+%26+Project+Management;7%2B+years+in+Higher+Education+and+Research;3%2B+years+of+consulting+experience" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&size=22&duration=2500&pause=1250&color=D90DF7&center=true&vCenter=true&width=635&lines=I+am+a+Junior+iOS+Developper;I+have+a+PhD+in+Innovation+%26+Project+Management;7%2B+years+in+Higher+Education+and+Research;3%2B+years+of+consulting+experience" alt="Typing SVG" /></a>
 <p align="center">
   <a href="https://www.linkedin.com/in/charl%C3%A8ne-hoareau-0ab5b55b/"><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/charlella/charlella/blob/main/Resources/social_logo/linkedin_purple.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
