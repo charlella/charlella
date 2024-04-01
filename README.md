@@ -28,7 +28,7 @@ I am working on social media and we talk about :
 - 👋  Hi, I’m @charlella
 - 🔭  I am looking for a job opportunities as a Junior iOS Developer 
 - 👀  I’m interested in traveling in time (regency romance novels and museums) and around the world (nature, cultures and languages).
-- 🌎  I currently live in France. In the past few years, I lived in French Polynesia (Tahiti) and Hong-Kong for a few months.
+- 🌎  I currently work in Geneva, Switzerland. In the past few years, I lived in French Polynesia (Tahiti) and Hong-Kong for a few months.
 - 🌱  I am excited about learning more and developing new skills.
 - 💞️  I’m looking to collaborate on fancy projects helping people to live healthier and happier.
 <br>
