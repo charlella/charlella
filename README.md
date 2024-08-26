@@ -19,7 +19,7 @@
 
 ## About me
 
-I am happy as a Web & Mobile Developer (former Research Officer in Management)
+I am a happy Digital Project Manager by day, a Web & Mobile Developer by night, and a former Research Officer in Management.
 I am working on social media and we talk about :
 - Retraining as a Developper : learning (no CS degree, bootcamp opportunities, learning by doing)
 - Programming : 🚀 Swift / React Native / React / JavaScript / HTML / CSS / Redux 🚀.
